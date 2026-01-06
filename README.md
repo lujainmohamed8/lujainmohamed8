@@ -65,7 +65,7 @@ A comprehensive collection of production-ready machine learning projects demonst
 
 ## 💼 Internship Interests
 
-I am actively seeking Summer 2025 internship opportunities in:
+I am actively seeking Summer 2026 internship opportunities in:
 
 **Data Analytics** • **Data Science** • **Machine Learning Engineering** • **Business Intelligence**
 
@@ -75,8 +75,8 @@ I am particularly drawn to roles where data-driven insights directly influence p
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lujain-mohamed88/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oalujain@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lujainmohamed8)
 
 I'm always open to discussing data science opportunities, collaborating on interesting projects, or connecting with fellow data enthusiasts. Feel free to reach out!
