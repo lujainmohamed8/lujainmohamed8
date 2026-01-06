@@ -1,29 +1,7 @@
 ## Hi, I’m Lujain 👋  
 
-🎓 Computer Science student passionate about **Data Analytics, Machine Learning, and AI**.  
-📊 I enjoy transforming data into insights and building **end-to-end machine learning solutions** that support real-world decision-making.  
+🎓 Computer Science student passionate about **Data Science, Machine Learning, and AI**, transforming data into insights and building **end-to-end machine learning solutions** that support real-world decision-making.  
 🚀 Currently seeking **Summer Internships** in Data Analytics / Data Science / Machine Learning.
-
----
-
-## 🛠 Tech Stack
-
-**Languages & Tools**
-- Python, SQL  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-
-**Machine Learning**
-- Scikit-learn  
-- Classification & Regression  
-- Imbalanced Data Handling (SMOTE)  
-- Model Evaluation (ROC-AUC, Precision, Recall, F1-score)  
-
-**Data Skills**
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering  
-- Data Cleaning & Preprocessing  
-- Business-focused insights  
 
 ---
 
@@ -52,13 +30,6 @@ Demonstrates strong practical skills in **EDA, preprocessing, feature engineerin
 - Sales Forecasting (Time Series)
 
 🔗 https://github.com/lujainmohamed8/MachineLearningTasks---ElevvoPathwaysInternship
-
----
-
-## 📈 What I’m Currently Working On
-- Advanced ML projects (model interpretability, feature importance)  
-- Deep Learning and NLP fundamentals  
-- Strengthening SQL for analytics and reporting use cases  
 
 ---
 
