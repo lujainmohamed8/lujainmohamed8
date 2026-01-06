@@ -1,8 +1,8 @@
 # Hi, I'm Lujain 👋
 
-Computer Science student specializing in **Data Analytics, Machine Learning, and AI**. I build end-to-end machine learning solutions that transform data into actionable insights.
+Computer Science student specializing in **Data Science, Machine Learning, and AI**. I build end-to-end machine learning solutions that transform data into actionable insights.
 
-🎯 **Seeking Summer 2025 Internships** in Data Analytics | Data Science | Machine Learning
+🎯 **Seeking Summer 2026 Internships** in Data Analytics | Data Science | Machine Learning
 
 ---
 
@@ -33,7 +33,7 @@ Advanced model interpretability • Deep Learning & NLP • SQL for analytics
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lujain-mohamed88/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oalujain@gmail.com)
 
 Open to collaboration and always eager to learn!
